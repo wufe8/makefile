@@ -4,5 +4,5 @@
 
 void PrintName(char* pos)
 {
-	printf("My name is: %s\n", pos);
+	printf("\nMy name is: %s\n", pos);
 }
